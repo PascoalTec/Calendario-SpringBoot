@@ -12,7 +12,7 @@ Content-Type: application/json
 
 {
     "id": 2,
-    "title": "My second Blog Post",
+    "title": "",
     "desc": "My second Blog Post",
     "status": "IDEA",
     "contentType": "ARTICLE",
